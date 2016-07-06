@@ -9,7 +9,7 @@ don't give up!
 
 Shattering jaws a Sega Genesis/Megadrive game created for the Bitbit JAM#3. 
 Almost every code is written from scratch. Some graphics are ripped off and 
-others created by my and. No music at all.
+others created by my hand. No music at all.
 
 Enjoy!
 
